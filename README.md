@@ -2,4 +2,4 @@
 
 Files for CSE101
 
-Contains Data Structures such as Lists, Graphs, and algorithms such as BFS and DFS in C
+Contains Data Structures such as Linked Lists, Graphs, and algorithms such as BFS and DFS in C
