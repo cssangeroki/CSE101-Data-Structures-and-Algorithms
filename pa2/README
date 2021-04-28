@@ -1,0 +1,23 @@
+Name: Claudio Sangeroki
+PA2
+README
+
+Details: 
+
+Sparse.c - The top file used to manipulate Matrix.c
+
+Matrix.c - An file with 2 classes matrix and the inner class Entry. Used to manipulate List.c functions
+
+Matrix.h - header file for Matrix.c
+
+List.c - a doubly linked list from pa1
+
+List.h - List.c Header file
+
+MatrixTest.c - A test file for Matrix.c
+
+ListTest.c - A test file for List.c
+
+Makefile - Makefile for pa2
+
+README - Details of files.

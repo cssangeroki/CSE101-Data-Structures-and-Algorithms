@@ -1,0 +1,20 @@
+Claudio Sangeroki
+csangero
+15677403
+pa3
+
+List.c - A Doubly Linked List ADT
+
+List.h - Header file for List.c
+
+Graph.c - A Graph ADT List based of an adjacency list
+
+Graph.h - A Graph Header file
+
+GraphTest.c - A Test file used to test the methods of Graph.c
+
+FindPath.c - Uses Graph.c and find the closest path to a vertice from a vertice
+
+README - a brief description of the files submitted
+
+Makefile - a Makefile provided by the professor
